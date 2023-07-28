@@ -13,8 +13,8 @@ https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html
 ------------------------------------------------
 
 ### usage
-cmake .
-make
-mpirun -np 4 ./try "{videofilename}.mp4" "{degree-of-face-anonymization 1-10}" "{key-for-encrypting-face}"
+ cmake . 
+ make
+ mpirun -np 4 ./try "{videofilename}.mp4" "{degree-of-face-anonymization 1-10}" "{key-for-encrypting-face}"
 
 --------------------------------------------------------
