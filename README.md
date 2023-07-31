@@ -1,4 +1,4 @@
-# Distributed Video Processing
+# Distributed Video Processing - Parallelized System for Video Face Anonymization
 
 ## Introduction
 
